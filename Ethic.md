@@ -17,4 +17,4 @@ Relativism examines why we often ignore ethics in our decision making
 
 Analysis provides a structure with which to confront ethical decisions.
 
-![image-20211023223320674](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023223320674.png)
+![image-20211023223320674](imgs\image-20211023223320674.png)

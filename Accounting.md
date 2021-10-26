@@ -54,7 +54,7 @@ FIFO
 
 LIFO
 
-![image-20211023234953378](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023234953378.png)
+![image-20211023234953378](imgs\image-20211023234953378.png)
 
 ## 2.7 Materiality
 
@@ -90,7 +90,7 @@ $$
 Assets(A) = Liabilities(L) + Owners'\ Equity(OE)
 $$
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024000414144.png" alt="image-20211024000414144" style="zoom:50%;" />
+<img src="imgs\image-20211024000414144.png" alt="image-20211024000414144" style="zoom:50%;" />
 
 
 
@@ -98,15 +98,15 @@ Accounting process: The Double Entry System
 
 In all cases, journal entries have at least two lines of data, a debit and a credit.
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024001140345.png" alt="image-20211024001140345" style="zoom:50%;" />
+<img src="imgs\image-20211024001140345.png" alt="image-20211024001140345" style="zoom:50%;" />
 
 Bob and his father issued themselves 1000 shares of stock for their initial investment of $15000 in their store.
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024001330974.png" alt="image-20211024001330974" style="zoom:50%;" />
+<img src="imgs\image-20211024001330974.png" alt="image-20211024001330974" style="zoom:50%;" />
 
 Example balance sheet
 
-![image-20211024001822638](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024001822638.png)
+![image-20211024001822638](imgs\image-20211024001822638.png)
 
 ***Notes:***
 
@@ -138,7 +138,7 @@ The income statement show the "flow" of activity and transactions over a specifi
 
 Revenue - Expenses = Income
 
-![image-20211024032406553](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024032406553.png)
+![image-20211024032406553](imgs\image-20211024032406553.png)
 
 ![image-20211024032420352](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024032420352.png)
 
@@ -164,7 +164,7 @@ Net Income = EBIT - Interest Expense - Taxes
 
 **How Income Statement journal Entries Are Made**
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024035110028.png" alt="image-20211024035110028" style="zoom:50%;" />
+<img src="imgs\image-20211024035110028.png" alt="image-20211024035110028" style="zoom:50%;" />
 
 <img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024035421460.png" alt="image-20211024035421460" style="zoom:50%;" />
 
@@ -213,7 +213,7 @@ By using a statement of cash flows, managers can plan and manage their cash sour
 
 Cash Flow Statement Example
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024042707351.png" alt="image-20211024042707351" style="zoom:50%;" />
+<img src="imgs\image-20211024042707351.png" alt="image-20211024042707351" style="zoom:50%;" />
 
 <img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024042727800.png" alt="image-20211024042727800" style="zoom:50%;" />
 
@@ -253,7 +253,7 @@ Cash Flow Statement Example
 
 The Du pont Chart
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024053228819.png" alt="image-20211024053228819" style="zoom: 80%;" />
+<img src="imgs\image-20211024053228819.png" alt="image-20211024053228819" style="zoom: 80%;" />
 
 
 

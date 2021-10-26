@@ -8,7 +8,7 @@
 
 **Want Got Gaps** 
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024182804344.png" alt="image-20211024182804344"  />
+<img src="imgs\image-20211024182804344.png" alt="image-20211024182804344"  />
 
 There is a problem when a gap or deviation between a manager think ought to be occurring and what is actually occurring.
 
@@ -19,7 +19,7 @@ The level of problem
 
 **Source Problems and Casual Chain**
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024183020693.png" alt="image-20211024183020693"  />
+<img src="imgs\image-20211024183020693.png" alt="image-20211024183020693"  />
 
 ## Analysis
 Link the problem to their cause
@@ -36,7 +36,7 @@ Link the problem to their cause
 
 The APCFB Psychology Model
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024184030835.png" alt="image-20211024184030835"  />
+<img src="imgs\image-20211024184030835.png" alt="image-20211024184030835"  />
 
 **Expectations**
 
@@ -52,7 +52,7 @@ $$
 
 ## Job Design
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024214241747.png" alt="image-20211024214241747" style="zoom: 50%;" />
+<img src="imgs\image-20211024214241747.png" alt="image-20211024214241747" style="zoom: 50%;" />
 
 ## MBA Personality Traits -- Leadership
 
@@ -68,7 +68,7 @@ Leadership VCM Model
 - Commitment
 - Management Skills
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211024215230773.png" alt="image-20211024215230773" style="zoom:50%;" />
+<img src="imgs\image-20211024215230773.png" alt="image-20211024215230773" style="zoom:50%;" />
 
 - The Forces within the manager
 - The Forces within the subordinates
@@ -144,7 +144,7 @@ Managers should out of their offices working on building relationships, motivati
 
 # The Organizational Model And Structure
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025091847611.png" alt="image-20211025091847611" style="zoom:80%;" />
+<img src="imgs\image-20211025091847611.png" alt="image-20211025091847611" style="zoom:80%;" />
 
 ## Strategy
 
@@ -189,11 +189,11 @@ Culture is the mix  of behaviors, thoughts, beliefs, symbols, and artifacts that
 
 firm structure determine how employees are grouped, and how they can advance in a firm.
 
-![image-20211025100111786](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025100111786.png)
+![image-20211025100111786](imgs\image-20211025100111786.png)
 
 # System Theory
 
-![image-20211025100700583](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025100700583.png)
+![image-20211025100700583](imgs\image-20211025100700583.png)
 
 # Organizational Evolution And Revolution
 

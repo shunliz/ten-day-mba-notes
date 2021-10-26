@@ -10,9 +10,9 @@
 4. Combine the first three steps into a tree diagram
 5. Determine the best alternative and consider the non-monetary aspect of the problem
 
-![image-20211025105942556](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025105942556.png)
+![image-20211025105942556](imgs\image-20211025105942556.png)
 
-![image-20211025105952645](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025105952645.png)
+![image-20211025105952645](imgs\image-20211025105952645.png)
 
 # Cash Flow Analysis
 
@@ -28,17 +28,17 @@ What is the current investment and what are the future benefits?
 4. Quantify the uncertainty of the benefits
 5. Do the benefits justify the wait?
 
-![image-20211025112214797](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025112214797.png)
+![image-20211025112214797](imgs\image-20211025112214797.png)
 
 ## Accumulated Value
 
-![image-20211025112506784](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025112506784.png)
+![image-20211025112506784](imgs\image-20211025112506784.png)
 
 ## Net Present Value
 
-![image-20211025113149096](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025113149096.png)
+![image-20211025113149096](imgs\image-20211025113149096.png)
 
-![image-20211025113156137](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025113156137.png)
+![image-20211025113156137](imgs\image-20211025113156137.png)
 
 ## Internal Rate of Return(IRR)
 
@@ -52,13 +52,13 @@ Binomial distribution
 
 Normal distribution
 
-![image-20211025115602695](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025115602695.png)
+![image-20211025115602695](imgs\image-20211025115602695.png)
 
 # Regression Analysis and Forecasting
 
 ## Linear Regression
 
-![image-20211025120604861](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211025120604861.png)
+![image-20211025120604861](imgs\image-20211025120604861.png)
 
 R square
 
