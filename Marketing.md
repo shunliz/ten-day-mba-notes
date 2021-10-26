@@ -6,7 +6,7 @@
 
 ------
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211022110350246.png"  />
+<img src="imgs\image-20211022110350246.png"  />
 
 1. Consumer Analysis
 
@@ -36,7 +36,7 @@ Awareness->Information Search->Evaluate Alternatives->Purchase->Evaluate
 
 **Is the product a high or a low involvement product?**
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023111545072.png" alt="image-20211023111545072" style="zoom:50%;" />
+<img src="imgs\image-20211023111545072.png" alt="image-20211023111545072" style="zoom:50%;" />
 
 The marketer's magic is at work when he or she transforms a previously lov-involvment product into a high-involvement one, can be  in below  ways:
 
@@ -107,7 +107,7 @@ The marketer's magic is at work when he or she transforms a previously lov-invol
 
 ## Where is the product in its product life cycle?
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023114233332.png" alt="image-20211023114233332" style="zoom:80%;" />
+<img src="imgs\image-20211023114233332.png" alt="image-20211023114233332" style="zoom:80%;" />
 
 Four generic stages of the PLC(Product Life Cycle) and implications actions:
 
@@ -151,7 +151,7 @@ Four generic stages of the PLC(Product Life Cycle) and implications actions:
 
 ## How does my product perceptually map against the competition?
 
-![image-20211023133350412](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023133350412.png)
+![image-20211023133350412](imgs\image-20211023133350412.png)
 
 #  4, Review of the distribution channels
 
@@ -171,7 +171,7 @@ Everyone who touches the merchandise takes a cut, which is called their margin.
 
 Each channel has its own channel margin mathematics. By understanding the math you are better able to make a choice of the distribution channel.
 
-![image-20211023135636476](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023135636476.png)
+![image-20211023135636476](imgs\image-20211023135636476.png)
 
 ## **Who holds the power in each distribution channel available?**
 
@@ -181,7 +181,7 @@ SKU - Stock Keeping Unit
 
 Marketing action plan
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023143051227.png" alt="image-20211023143051227" style="zoom:50%;" />
+<img src="imgs\image-20211023143051227.png" alt="image-20211023143051227" style="zoom:50%;" />
 
 The development of the marketing mix is an evolutionary process whose goal is an internally consistent and mutually supportive plan.
 
@@ -284,7 +284,7 @@ Fixed costs
 
 Total Costs = (Variable Costs Per Unit x Units Sold) + Fixed Costs
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023205700746.png" alt="image-20211023205700746" style="zoom:50%;" /><img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023205734438.png" alt="image-20211023205734438" style="zoom:50%;" />
+<img src="imgs\image-20211023205700746.png" alt="image-20211023205700746" style="zoom:50%;" /><img src="imgs\image-20211023205734438.png" alt="image-20211023205734438" style="zoom:50%;" />
 
 ## **What is the break even?**
 
@@ -297,7 +297,7 @@ $$
 Unit\ Contribution = Your\ Selling\ Price - Variable\ Costs
 $$
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023210804078.png" alt="image-20211023210804078" style="zoom:50%;" />
+<img src="imgs\image-20211023210804078.png" alt="image-20211023210804078" style="zoom:50%;" />
 
 The corresponding break-even volume was calculated:
 $$
@@ -321,7 +321,7 @@ $$
 123469 \times 6.00 = 740814 \ \ \ \ \ \ target\ reatil\ sales
 $$
 
-<img src="C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211023212343950.png" alt="image-20211023212343950" style="zoom:50%;" />
+<img src="imgs\image-20211023212343950.png" alt="image-20211023212343950" style="zoom:50%;" />
 
 ## **How long is the payback of my investment?**
 

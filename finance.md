@@ -118,7 +118,7 @@ Making capital structure decisions involves a two-step process:
 
 ![image-20211026120417474](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211026120417474.png)
 
-![image-20211026120428583](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211026120428583.png)
+![image-20211026120428583](D:\code\gitee\ten-day-mba-notes\imgs\image-20211026120428583.png)
 
 ![image-20211026120515410](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20211026120515410.png)
 
