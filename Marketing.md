@@ -6,7 +6,7 @@
 
 ------
 
-<img src="imgs\image-20211022110350246.png"  />
+<img src="./imgs/image-20211022110350246.png"  />
 
 1. Consumer Analysis
 
