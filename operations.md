@@ -29,9 +29,9 @@ Gantt chart
 
 Queuing Theory to Schedule
 
-![image-20211026181828538](operations.assets\image-20211026181828538.png)
+![image-20211026181828538](./operations.assets/image-20211026181828538.png)
 
-![image-20211026181940207](operations.assets\image-20211026181940207.png)
+![image-20211026181940207](./operations.assets/image-20211026181940207.png)
 
 ## Inventory
 
@@ -47,7 +47,7 @@ Reasons for holding inventory:
 - Anticipatory -- Inventory held in anticipation of known demand
 - Speculative -- Items purchased to beat supplier price increases.
 
-<img src="operations.assets\image-20211027145826731.png" alt="image-20211027145826731" style="zoom:50%;" />
+<img src="./operations.assets/image-20211027145826731.png" alt="image-20211027145826731" style="zoom:50%;" />
 $$
 Economic\ Order\ Quantity(Q*) = \sqrt{\frac {(2 \times R \times Q)} {C}}
 $$
@@ -59,7 +59,7 @@ O = Cost of placing an order
 
 C = Cost of carrying a unit of inventory per period
 
-![image-20211027152439801](operations.assets\image-20211027152439801.png)
+![image-20211027152439801](./operations.assets/image-20211027152439801.png)
 
 ## Standards
 
@@ -75,11 +75,11 @@ Quality products do not means flawless product or service, it perform "as expect
 
 X Bar Control Charts records the average (X Bar) of the sample measurement he takes every hour. 
 
-![image-20211027173301307](operations.assets\image-20211027173301307.png)
+![image-20211027173301307](./operations.assets/image-20211027173301307.png)
 
 R Control Charts measures the range between the largest and smallest measurements in the sampling used to create the X Bar charts.
 
-![image-20211027173649400](operations.assets\image-20211027173649400.png)
+![image-20211027173649400](./operations.assets/image-20211027173649400.png)
 
 # Hot Topics
 
@@ -95,5 +95,5 @@ The time it takes for a company to convert a product idea into a new product or 
 
 # Take aways
 
-![image-20211027181803080](operations.assets\image-20211027181803080.png)
+![image-20211027181803080](./operations.assets/image-20211027181803080.png)
 

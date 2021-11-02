@@ -4,7 +4,7 @@
 
 Economics studies how society allocate the limitec resources of the earth to the insatiable appetites of humans.
 
-![image-20211027234458534](economics.assets\image-20211027234458534.png)
+![image-20211027234458534](./economics.assets/image-20211027234458534.png)
 
 # Microeconomics
 
@@ -14,13 +14,13 @@ Opportunity cost is the cost of choice, when output, time, and money are limited
 
 ## Marginal Revenue and Cost
 
-![image-20211027235332382](economics.assets\image-20211027235332382.png)
+![image-20211027235332382](./economics.assets/image-20211027235332382.png)
 
 ## Marginal Utility
 
 ## Price Elasticity of Demand
 
-![image-20211028000236141](economics.assets\image-20211028000236141.png)
+![image-20211028000236141](./economics.assets/image-20211028000236141.png)
 
 ## Competitive Market Structures
 
@@ -37,7 +37,7 @@ Keynesians  -- government intervention can significantly improve the operation o
 
 Monetarists -- markets works best if left alone with minimal government interference.
 
-![image-20211028091441412](economics.assets\image-20211028091441412.png)
+![image-20211028091441412](./economics.assets/image-20211028091441412.png)
 
 ## Gross national product, inflation and the keynesian view
 
@@ -45,7 +45,7 @@ The Consumer Price Index
 
 The Producer Price Index (base year 1967)
 
-![image-20211028092408373](economics.assets\image-20211028092408373.png)
+![image-20211028092408373](./economics.assets/image-20211028092408373.png)
 
 MPC(marginal propensity to consume)
 $$
@@ -53,7 +53,7 @@ Spending\ Multiplier = \frac {1} {(1 - MPC)} \\ = \frac {1} {1 - 0.8} = 5
 $$
 The effect of $1 million of wages would result in $5 million of total spending in t he economy.
 
-![image-20211028093517521](economics.assets\image-20211028093517521.png)
+![image-20211028093517521](./economics.assets/image-20211028093517521.png)
 
 ## Economic Growth and the Monetarist View
 
@@ -83,7 +83,7 @@ Arthur Okun and Okun's Law -- higher levels of economic growth are accompanied b
 
 Arthur Laffer and the Supply-Side Economists --- believe  in the incentive effects of reduced taxation.
 
-![image-20211028101307989](economics.assets\image-20211028101307989.png)
+![image-20211028101307989](./economics.assets/image-20211028101307989.png)
 
 # International marcoeconomics
 

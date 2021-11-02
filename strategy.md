@@ -18,7 +18,7 @@ Superordinate Goals/Shared Values
 
 Strategy
 
-![image-20211028140253275](strategy.assets\image-20211028140253275.png)
+![image-20211028140253275](./strategy.assets/image-20211028140253275.png)
 
 ## Levels of Strategy 
 
@@ -28,7 +28,7 @@ Strategy
 
 ## Expansion Strategies
 
-![image-20211028210344058](strategy.assets\image-20211028210344058.png)
+![image-20211028210344058](./strategy.assets/image-20211028210344058.png)
 
 ## Industry Analysis
 
@@ -38,9 +38,9 @@ Strategy
 - Bargaining Power of Buyers
 - Intensity of Rivalry Among Competitors
 
-![image-20211028211113856](strategy.assets\image-20211028211113856.png)
+![image-20211028211113856](./strategy.assets/image-20211028211113856.png)
 
-![image-20211028211332046](strategy.assets\image-20211028211332046.png)
+![image-20211028211332046](./strategy.assets/image-20211028211332046.png)
 
 ## Generic Strategies
 
@@ -48,9 +48,9 @@ Strategy
 - Differentiation
 - Focus
 
-![image-20211028211935461](strategy.assets\image-20211028211935461.png)
+![image-20211028211935461](./strategy.assets/image-20211028211935461.png)
 
-![image-20211028212434073](strategy.assets\image-20211028212434073.png)
+![image-20211028212434073](./strategy.assets/image-20211028212434073.png)
 
 ## Competitive Tactics: Signaling
 
@@ -67,7 +67,7 @@ Six Common types of legal signals:
 
 **Boston chart**
 
-![image-20211028215409312](strategy.assets\image-20211028215409312.png)
+![image-20211028215409312](./strategy.assets/image-20211028215409312.png)
 
 **Mckinsey model**
 
@@ -78,7 +78,7 @@ Six Common types of legal signals:
 - Harvest, Milk the Cow
 - Divest, Sell the Dog
 
-![image-20211028220135016](strategy.assets\image-20211028220135016.png)
+![image-20211028220135016](./strategy.assets/image-20211028220135016.png)
 
  **ADL SUB System**
 
@@ -87,7 +87,7 @@ Six Common types of legal signals:
 3. Evaluate the conditions of the industries in which each SBU operates.
 4. Make a decision
 
-![image-20211028220439090](strategy.assets\image-20211028220439090.png)
+![image-20211028220439090](./strategy.assets/image-20211028220439090.png)
 
 **The PIMS Data Base**
 
